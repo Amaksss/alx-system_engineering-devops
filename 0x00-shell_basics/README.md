@@ -1,1 +1,1 @@
-change to previous directory
+list files in boot directory in long format
