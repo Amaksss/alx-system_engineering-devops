@@ -1,1 +1,1 @@
-list files in boot directory in long format
+prints the type of the file
