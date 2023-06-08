@@ -1,1 +1,1 @@
-sets same mode for files
+change group ownership
