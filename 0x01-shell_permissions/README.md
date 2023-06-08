@@ -1,1 +1,1 @@
-play star wars in terminal
+execute permission to all subdirectories of the current directory
