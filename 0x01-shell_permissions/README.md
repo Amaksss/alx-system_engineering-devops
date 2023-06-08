@@ -1,1 +1,1 @@
-execute permission to all subdirectories of the current directory
+create directory with permissions in the working directory
