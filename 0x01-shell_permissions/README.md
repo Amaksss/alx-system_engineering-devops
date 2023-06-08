@@ -1,1 +1,1 @@
-execute permission to owner of file hello
+set multiple permissions
