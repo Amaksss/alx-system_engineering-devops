@@ -1,1 +1,1 @@
-permission to everybody
+sets permissions to the file hello
