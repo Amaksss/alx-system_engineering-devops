@@ -1,1 +1,1 @@
-prints hello world to stdopt
+display content of file
