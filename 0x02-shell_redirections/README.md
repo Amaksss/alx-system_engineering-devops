@@ -1,1 +1,1 @@
-create file with text
+duplicate last line
