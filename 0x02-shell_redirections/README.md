@@ -1,1 +1,1 @@
-display third line of file
+create file with text
