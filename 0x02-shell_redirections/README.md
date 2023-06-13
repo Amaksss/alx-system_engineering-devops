@@ -1,1 +1,1 @@
-display lines containing root and 3 lines after
+count lines
