@@ -1,1 +1,1 @@
-display environmental variables
+local variables
