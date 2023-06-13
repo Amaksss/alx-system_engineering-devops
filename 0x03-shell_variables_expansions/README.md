@@ -1,1 +1,1 @@
-convert binary
+display envar results
