@@ -1,1 +1,1 @@
-remove letters and replace
+display all letters a-z
