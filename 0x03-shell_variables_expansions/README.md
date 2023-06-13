@@ -1,1 +1,1 @@
-print float
+print possible combination of two letters
