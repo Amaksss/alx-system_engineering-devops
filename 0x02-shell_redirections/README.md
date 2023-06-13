@@ -1,1 +1,1 @@
-display last line
+save current state of directory
