@@ -1,1 +1,1 @@
-display all letters a-z
+display all lines except
