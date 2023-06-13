@@ -1,1 +1,1 @@
-list all files with gif extension
+decode acoustic
