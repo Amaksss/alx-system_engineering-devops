@@ -1,1 +1,1 @@
-divide and rule
+count directories in path
