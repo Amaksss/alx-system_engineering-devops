@@ -1,1 +1,1 @@
-print possible combination of two letters
+convert binary
