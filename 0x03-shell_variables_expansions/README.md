@@ -1,1 +1,1 @@
-create global variable
+prints hello user
