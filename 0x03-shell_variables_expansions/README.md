@@ -1,1 +1,1 @@
-print addition plus variable value
+print float
