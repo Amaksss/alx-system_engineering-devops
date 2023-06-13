@@ -1,1 +1,1 @@
-delete files with js
+display last line
