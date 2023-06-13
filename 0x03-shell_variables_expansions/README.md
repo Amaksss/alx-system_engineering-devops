@@ -1,1 +1,1 @@
-prints hello user
+print addition plus variable value
