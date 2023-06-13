@@ -1,1 +1,1 @@
-count lines
+find word in file
