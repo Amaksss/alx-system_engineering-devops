@@ -1,1 +1,1 @@
-create alias
+display environmental variables
