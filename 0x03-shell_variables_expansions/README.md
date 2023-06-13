@@ -1,1 +1,1 @@
-display envar results
+divide and rule
